@@ -1,0 +1,5 @@
+GetTeamNumber
+SetContextThink
+FDesc
+IsNull
+GetAbsOrigin

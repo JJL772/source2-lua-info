@@ -1,0 +1,13 @@
+SetAnimation
+SetVelocity
+DetachFromParent
+AddImpulseAtPosition
+LookupSequence
+SetMaterialGroup
+SetAngularVelocity
+AddVelocity
+IsAttachedToParent
+FDesc
+IsNull
+SequenceDuration
+GetSequence
