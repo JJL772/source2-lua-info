@@ -1,0 +1,7 @@
+SetVolumetrics
+SetLinearAttenuation
+SetQuadraticAttenuation
+FDesc
+IsNull
+SetNearRange
+SetFarRange

@@ -1,0 +1,13 @@
+GetFloat
+GetStr
+SetStr
+GetCommandClient
+SetInt
+RegisterCommand
+RegisterConvar
+SetBool
+GetInt
+SetFloat
+IsNull
+GetBool
+FDesc

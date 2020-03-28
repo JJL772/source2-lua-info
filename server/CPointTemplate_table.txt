@@ -1,0 +1,6 @@
+GetSpawnedEntities
+ForceSpawn
+FDesc
+IsNull
+SetSpawnCallback
+DeleteCreatedSpawnGroups

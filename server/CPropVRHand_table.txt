@@ -1,0 +1,16 @@
+GetHandID
+GetHandAttachment
+RemoveAllHandModelOverrides
+AddHandModelOverride
+RemoveHandModelOverride
+SetHandAttachment
+RemoveHandAttachmentByHandle
+GetVelocity
+GetPlayer
+GetLiteralHandType
+FindHandModelOverride
+AddHandAttachment
+FDesc
+FireHapticPulse
+IsNull
+FireHapticPulsePrecise

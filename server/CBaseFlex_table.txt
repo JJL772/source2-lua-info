@@ -1,0 +1,8 @@
+SetFlexWeight
+FindFlexController
+GetFlexWeight
+ScriptPlayScene
+FDesc
+IsNull
+GetCurrentScene
+GetSceneByIndex

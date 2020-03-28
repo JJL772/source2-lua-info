@@ -1,0 +1,14 @@
+SetParticleAlwaysSimulate
+SetParticleControl
+CreateParticleForPlayer
+GetParticleReplacement
+SetParticleControlForward
+IsNull
+DestroyParticle
+CreateParticle
+SetParticleControlOrientationFLU
+ReleaseParticleIndex
+SetParticleControlOffset
+SetParticleControlOrientation
+SetParticleControlEnt
+FDesc

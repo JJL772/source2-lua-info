@@ -1,0 +1,6 @@
+GetEquippedWeapons
+ShootPosition
+FDesc
+IsNull
+GetFaction
+GetWeaponCount

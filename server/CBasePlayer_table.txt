@@ -1,0 +1,12 @@
+IsVRControllerButtonPressed
+IsVRDashboardShowing
+GetHMDAnchor
+IsNoclipping
+GetUserID
+GetVRControllerType
+GetHMDAvatar
+AreChaperoneBoundsVisible
+FDesc
+GetPlayArea
+IsUsePressed
+IsNull

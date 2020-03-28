@@ -1,0 +1,9 @@
+PlayerCounter_ModifyValue
+PlayerCounter_SetMinMax
+PlayerCounter_CanModifyValue
+PlayerCounter_SetMax
+PlayerCounter_SetValue
+PlayerCounter_SetMin
+IsNull
+PlayerCounter_GetValue
+FDesc
